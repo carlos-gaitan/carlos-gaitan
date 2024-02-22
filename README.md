@@ -1,10 +1,12 @@
 # Carlos Gaitan CV
-## SysAdmin | Programador Web Full-Stack
-*# OPEN TO WORK - Poseo ciudadanía Italiana y NIE español por lo cual estoy apto para trabajar en la comunidad europea*   
+
+> UNDER CONSTRUCTION - OUTDATED
+
+### SysAdmin | Programador Web Full-Stack
 [linkedin](https://ar.linkedin.com/in/carlos-gaitan/)  
 [blog](https://carlos-gaitan.github.io/)  
 
-## About me
+### About me
 Actualmente estoy trabajando con Docker aprendiendo K8s, y por otro lado mas relacionado al desarrollo, SmartContracts para Blockchain Ethereum (solidity truffle web3).
 
 Administrador de Sistemas GNU-Linux, desde el año 2000 configurando y manteniendo estaciones de trabajo, servidores y enrutadores.
@@ -15,7 +17,7 @@ Algo con lo que me identifico es con el acronimo KISS
 > KISS, an acronym for keep it simple, stupid. The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided.
 
 
-## Experience
+### Experience
 
 dic 2020 - currently : *sysadmin - backend developer*  
 [COLMED9](https://www.colmed9.com.ar/) - Profecional independiente  
